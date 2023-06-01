@@ -33,4 +33,4 @@ This project requires Java and the Swing library, which is a part of the Java St
 
 **About the Author**
 
-This Tower of Hanoi project was created by Gaurav Jha as a part of their Stack data structure project. For any inquiries or feedback, please contact Gaurav Jha at gauravkumarjha306@gmail.com
+This Tower of Hanoi project was created as a part of Stack data structure project. For any inquiries or feedback, please contact gauravkumarjha306@gmail.com
